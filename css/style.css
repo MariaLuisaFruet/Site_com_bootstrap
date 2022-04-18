@@ -1,0 +1,40 @@
+
+.navbar{
+    background-color: rgb(255, 225, 127);
+    padding-left: 30px;
+}
+
+.quem-somos{
+    background-color: rgb(216, 171, 104);
+    
+}
+
+.margin{
+    padding-top: 8px;
+    padding-bottom: 20px;
+}
+
+.quem-somos h3{
+    margin-top: 10px;
+    margin-bottom: 20px;
+}
+
+
+.parceiros{
+    background-color: rgb(228, 207, 179);
+    padding-top: 20px;
+}
+
+.parceiros h3{
+    margin-top: 20px;
+    margin-bottom: 40px;
+}
+
+.servicos h3{
+    margin-top: 20px;
+    margin-bottom: 40px;  
+}
+
+.bg-footer{
+    background-color: rgb(255, 225, 127);
+}
